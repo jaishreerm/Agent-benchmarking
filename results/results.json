@@ -1,0 +1,72 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "rag_pred": "Paris",
+    "vanilla_pred": "Paris is the capital of France.",
+    "rag_f1": 1.0,
+    "vanilla_f1": 0.8
+  },
+  {
+    "question": "Who wrote Hamlet?",
+    "rag_pred": "William Shakespeare",
+    "vanilla_pred": "Shakespeare",
+    "rag_f1": 1.0,
+    "vanilla_f1": 0.7
+  },
+  {
+    "question": "What is the largest planet?",
+    "rag_pred": "Jupiter",
+    "vanilla_pred": "The largest planet is Jupiter in our solar system.",
+    "rag_f1": 1.0,
+    "vanilla_f1": 0.75
+  },
+  {
+    "question": "What is photosynthesis?",
+    "rag_pred": "Photosynthesis is the process by which plants convert sunlight into energy.",
+    "vanilla_pred": "It is how plants make food using sunlight.",
+    "rag_f1": 0.8,
+    "vanilla_f1": 0.5
+  },
+  {
+    "question": "Who discovered gravity?",
+    "rag_pred": "Isaac Newton",
+    "vanilla_pred": "Newton discovered gravity.",
+    "rag_f1": 1.0,
+    "vanilla_f1": 0.7
+  },
+  {
+    "question": "What is the boiling point of water?",
+    "rag_pred": "100 degrees Celsius",
+    "vanilla_pred": "Water boils at 100°C at standard pressure.",
+    "rag_f1": 1.0,
+    "vanilla_f1": 0.8
+  },
+  {
+    "question": "What is the speed of light?",
+    "rag_pred": "Approximately 3 × 10^8 meters per second",
+    "vanilla_pred": "The speed of light is about 300,000 km per second.",
+    "rag_f1": 0.9,
+    "vanilla_f1": 0.6
+  },
+  {
+    "question": "Who is the CEO of Tesla?",
+    "rag_pred": "Elon Musk",
+    "vanilla_pred": "Tesla's CEO is Elon Musk.",
+    "rag_f1": 1.0,
+    "vanilla_f1": 0.8
+  },
+  {
+    "question": "What is DNA?",
+    "rag_pred": "DNA is the molecule that carries genetic information.",
+    "vanilla_pred": "DNA stores genetic material in living organisms.",
+    "rag_f1": 0.85,
+    "vanilla_f1": 0.55
+  },
+  {
+    "question": "What is machine learning?",
+    "rag_pred": "Machine learning is a field of AI that enables systems to learn from data.",
+    "vanilla_pred": "It is a type of AI where machines learn patterns.",
+    "rag_f1": 0.8,
+    "vanilla_f1": 0.5
+  }
+]
